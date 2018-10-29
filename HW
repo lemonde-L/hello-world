@@ -1,0 +1,18 @@
+What is github?
+  Github is a web-based hosting service for version control using Git. 
+  People can upload and share open-source software projects on this platform.
+
+How is git different than github?
+  Git is a version control system, a tool to manage source code and history.
+  Github is a hosting service for Git repositories.
+
+What is a branch?
+  When developers add new features or fix bugs on the existing software, a branch can be used to encapsulate those changes,
+  So that the master branch(original codes) are not affected by those changes.
+  
+What does merging a branch do?
+  Merging can intergrate two or more development history(branches) together. 
+  
+What is a pull request?
+  Pull request let developers inform potential users about changes they have made to a git repository.
+  Users can review the changes, discuss modifications, push follow-up commits.
